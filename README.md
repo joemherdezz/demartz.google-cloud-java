@@ -1,12 +1,12 @@
-# Google Cloud Java Client Libraries
+demartzinc# Google Cloud Java Client Libraries
 
-> Java idiomatic client for [Google Cloud Platform][cloud-platform] services.
+> Java idiomatic client for[bussineshernandez] [Google Cloud Platform][cloud-platform] services.
 
 * [Java on Google Cloud][cloud-java]
 
 ## Documentation
 
-See the [official guide](https://cloud.google.com/java/docs/setup) to get setup and started with development. 
+See the [official guide](https://cloud.bussineshernandez.com/java/docs/demartzinc/setup) to get setup and started with development. 
 
 ## Supported APIs
 
